@@ -112,7 +112,7 @@ void main()
     int res = count_if(v.begin(), v.end(), v.front());
     cout << "Количество учящихся, прошедших экзамен (набравших больше 6): " << res << endl << endl;
 
-    vector <int>::iterator it;
+    
 
 
 
